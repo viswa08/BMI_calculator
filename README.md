@@ -1,6 +1,6 @@
 # bmi_calculator
 
-A Sample Flutter App
+UI focused flutter application
 
 ## BMI calculator app
 
